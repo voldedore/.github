@@ -9,4 +9,6 @@ People around like to call me a “geek” which I don’t like being called bec
 - vinh.vo30\[at\]gmail\[dot\]com
 - [LinkedIn][1]
 
+My public GPG key:  https://keybase.io/voldedore#show-public 
+
 [1]: https://www.linkedin.com/in/vinh-vo/
